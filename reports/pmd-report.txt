@@ -1,0 +1,294 @@
+src/polango/Driver.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/polango/Driver.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/polango/Driver.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/polango/Driver.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/polango/Driver.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/polango/Driver.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/polango/Driver.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/polango/Driver.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/polango/Driver.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/polango/Driver.java:12:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/saringo/TestTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/saringo/TestTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/saringo/TestTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/saringo/TestTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/saringo/TestTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/saringo/TestTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/saringo/TestTest.java:14:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/saringo/TestTest.java:14:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/saringo/TestTest.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/saringo/TestTest.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/saringo/TestTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/saringo/TestTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/saringo/TestTest.java:15:	FieldNamingConventions:	FieldNamingConventions: The field name 'Currtitle' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:15:	FieldNamingConventions:	FieldNamingConventions: The field name 'Currtitle' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:15:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Currtitle' starts with uppercase character.
+src/saringo/TestTest.java:15:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Currtitle' starts with uppercase character.
+src/saringo/TestTest.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'chromedriver' could be declared final
+src/saringo/TestTest.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'chromedriver' could be declared final
+src/saringo/TestTest.java:21:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'homeurl' (lines '21'-'22').
+src/saringo/TestTest.java:21:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'homeurl' (lines '21'-'22').
+src/saringo/TestTest.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'homeurl' could be declared final
+src/saringo/TestTest.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'homeurl' could be declared final
+src/saringo/TestTest.java:21:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'homeurl'.
+src/saringo/TestTest.java:21:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'homeurl'.
+src/saringo/TestTest.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:25:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS01_TC001_URLTest' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:25:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS01_TC001_URLTest' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:30:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/saringo/TestTest.java:30:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/saringo/TestTest.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:34:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS02_TC001_HomePageTest' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:34:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS02_TC001_HomePageTest' doesn't match '[a-z][a-zA-Z0-9]*'
+src/saringo/TestTest.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/saringo/TestTest.java:37:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/saringo/TestTest.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/saringo/TestTest.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/CABS.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/CABS.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/CABS.java:9:	ShortClassName:	ShortClassName: Avoid short class names like CABS
+src/varlango/CABS.java:9:	ShortClassName:	ShortClassName: Avoid short class names like CABS
+src/varlango/CABS.java:10:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/varlango/CABS.java:10:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/varlango/CABS.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the driver field if you want a default access modifier
+src/varlango/CABS.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the driver field if you want a default access modifier
+src/varlango/CABS.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:10:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/CABS.java:10:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/CABS.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:11:	FieldNamingConventions:	FieldNamingConventions: The static field name 'low_high' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:11:	FieldNamingConventions:	FieldNamingConventions: The static field name 'low_high' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:11:	FieldNamingConventions:	FieldNamingConventions: The static field name 'one_way' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:11:	FieldNamingConventions:	FieldNamingConventions: The static field name 'one_way' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:11:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/CABS.java:11:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/CABS.java:11:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/CABS.java:11:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/CABS.java:11:	ShortVariable:	ShortVariable: Avoid variables with short names like to
+src/varlango/CABS.java:11:	ShortVariable:	ShortVariable: Avoid variables with short names like to
+src/varlango/CABS.java:11:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'low_high' is not final.
+src/varlango/CABS.java:11:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'low_high' is not final.
+src/varlango/CABS.java:11:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'one_way' is not final.
+src/varlango/CABS.java:11:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'one_way' is not final.
+src/varlango/CABS.java:12:	FieldNamingConventions:	FieldNamingConventions: The static field name 'SortedBy' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:12:	FieldNamingConventions:	FieldNamingConventions: The static field name 'SortedBy' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:12:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'SortedBy' starts with uppercase character.
+src/varlango/CABS.java:12:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'SortedBy' starts with uppercase character.
+src/varlango/CABS.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/CABS.java:13:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/CABS.java:13:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/CABS.java:13:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/CABS.java:13:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/CABS.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CABS constructor if you want a default access modifier
+src/varlango/CABS.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CABS constructor if you want a default access modifier
+src/varlango/CABS.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'driver' is not assigned and could be declared final
+src/varlango/CABS.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'driver' is not assigned and could be declared final
+src/varlango/CABS.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/CABS.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/CABS.java:19:	CyclomaticComplexity:	CyclomaticComplexity: The method 'MMT_TS05_TC001_CabSearch()' has a cyclomatic complexity of 15.
+src/varlango/CABS.java:19:	CyclomaticComplexity:	CyclomaticComplexity: The method 'MMT_TS05_TC001_CabSearch()' has a cyclomatic complexity of 15.
+src/varlango/CABS.java:19:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS05_TC001_CabSearch' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:19:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'MMT_TS05_TC001_CabSearch' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/CABS.java:19:	NPathComplexity:	NPathComplexity: The method 'MMT_TS05_TC001_CabSearch()' has an NPath complexity of 336, current threshold is 200
+src/varlango/CABS.java:19:	NPathComplexity:	NPathComplexity: The method 'MMT_TS05_TC001_CabSearch()' has an NPath complexity of 336, current threshold is 200
+src/varlango/CABS.java:23:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:23:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:23:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:23:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:24:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:24:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:27:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:27:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:32:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:32:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:32:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:32:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:35:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:46:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:46:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:49:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:49:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:53:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:53:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/varlango/CABS.java:56:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:56:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:56:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:56:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/varlango/CABS.java:56:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:56:	PositionLiteralsFirstInCaseInsensitiveComparisons:	PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+src/varlango/CABS.java:57:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:57:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:57:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:57:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:68:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:68:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/varlango/CABS.java:71:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:71:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/varlango/CABS.java:71:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CABS.java:71:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/CORPORATE_GIFT_CARD.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/CORPORATE_GIFT_CARD.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/CORPORATE_GIFT_CARD.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'CORPORATE_GIFT_CARD' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/varlango/CORPORATE_GIFT_CARD.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'CORPORATE_GIFT_CARD' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/varlango/CORPORATE_GIFT_CARD.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/CORPORATE_GIFT_CARD.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/GIFT_CARD.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/GIFT_CARD.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/GIFT_CARD.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'GIFT_CARD' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/varlango/GIFT_CARD.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'GIFT_CARD' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/varlango/GIFT_CARD.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/GIFT_CARD.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/HOTELS.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/HOTELS.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/varlango/HOTELS.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/HOTELS.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/URL.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/URL.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/varlango/URL.java:11:	ShortClassName:	ShortClassName: Avoid short class names like URL
+src/varlango/URL.java:11:	ShortClassName:	ShortClassName: Avoid short class names like URL
+src/varlango/URL.java:11:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/varlango/URL.java:11:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/varlango/URL.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:13:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Currtitle' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:13:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Currtitle' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:13:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:13:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:13:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Currtitle' starts with uppercase character.
+src/varlango/URL.java:13:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Currtitle' starts with uppercase character.
+src/varlango/URL.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the driver field if you want a default access modifier
+src/varlango/URL.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the driver field if you want a default access modifier
+src/varlango/URL.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:14:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:14:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the popup field if you want a default access modifier
+src/varlango/URL.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the popup field if you want a default access modifier
+src/varlango/URL.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:15:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Menu' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:15:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Menu' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:15:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:15:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:15:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/URL.java:15:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/varlango/URL.java:15:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Menu' starts with uppercase character.
+src/varlango/URL.java:15:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Menu' starts with uppercase character.
+src/varlango/URL.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Homepage_UI field if you want a default access modifier
+src/varlango/URL.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Homepage_UI field if you want a default access modifier
+src/varlango/URL.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/varlango/URL.java:16:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:16:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/varlango/URL.java:16:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Homepage_UI' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:16:	FieldNamingConventions:	FieldNamingConventions: The static field name 'Homepage_UI' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:16:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:16:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/varlango/URL.java:16:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Homepage_UI' is not final.
+src/varlango/URL.java:16:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Homepage_UI' is not final.
+src/varlango/URL.java:16:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Homepage_UI' starts with uppercase character.
+src/varlango/URL.java:16:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Homepage_UI' starts with uppercase character.
+src/varlango/URL.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'driver' is not assigned and could be declared final
+src/varlango/URL.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'driver' is not assigned and could be declared final
+src/varlango/URL.java:19:	AssignmentToNonFinalStatic:	AssignmentToNonFinalStatic: Possible unsafe assignment to a non-final static field in a constructor.
+src/varlango/URL.java:19:	AssignmentToNonFinalStatic:	AssignmentToNonFinalStatic: Possible unsafe assignment to a non-final static field in a constructor.
+src/varlango/URL.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:22:	MethodNamingConventions:	MethodNamingConventions: The static method name 'MMT_TS01_TC001_URL' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:22:	MethodNamingConventions:	MethodNamingConventions: The static method name 'MMT_TS01_TC001_URL' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/varlango/URL.java:27:	MethodNamingConventions:	MethodNamingConventions: The static method name 'MMT_TS02_TC001_HomePage' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:27:	MethodNamingConventions:	MethodNamingConventions: The static method name 'MMT_TS02_TC001_HomePage' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:33:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/URL.java:33:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/URL.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/URL.java:34:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/varlango/URL.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'myBiz' could be declared final
+src/varlango/URL.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'myBiz' could be declared final
+src/varlango/URL.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MyTrips' could be declared final
+src/varlango/URL.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MyTrips' could be declared final
+src/varlango/URL.java:38:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MyTrips' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:38:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MyTrips' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:38:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MyTrips' starts with uppercase character.
+src/varlango/URL.java:38:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MyTrips' starts with uppercase character.
+src/varlango/URL.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Login_Create' could be declared final
+src/varlango/URL.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Login_Create' could be declared final
+src/varlango/URL.java:39:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Login_Create' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:39:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Login_Create' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:39:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Login_Create' is not final.
+src/varlango/URL.java:39:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Login_Create' is not final.
+src/varlango/URL.java:39:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Login_Create' starts with uppercase character.
+src/varlango/URL.java:39:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Login_Create' starts with uppercase character.
+src/varlango/URL.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Flights_panel' could be declared final
+src/varlango/URL.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Flights_panel' could be declared final
+src/varlango/URL.java:40:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Flights_panel' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:40:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Flights_panel' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:40:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Flights_panel' is not final.
+src/varlango/URL.java:40:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Flights_panel' is not final.
+src/varlango/URL.java:40:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Flights_panel' starts with uppercase character.
+src/varlango/URL.java:40:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Flights_panel' starts with uppercase character.
+src/varlango/URL.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'IN_ENG_INR' could be declared final
+src/varlango/URL.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'IN_ENG_INR' could be declared final
+src/varlango/URL.java:41:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'IN_ENG_INR' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:41:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'IN_ENG_INR' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:41:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'IN_ENG_INR' is not final.
+src/varlango/URL.java:41:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'IN_ENG_INR' is not final.
+src/varlango/URL.java:41:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'IN_ENG_INR' starts with uppercase character.
+src/varlango/URL.java:41:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'IN_ENG_INR' starts with uppercase character.
+src/varlango/URL.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'SEARCH' could be declared final
+src/varlango/URL.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'SEARCH' could be declared final
+src/varlango/URL.java:42:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'SEARCH' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:42:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'SEARCH' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:42:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'SEARCH' starts with uppercase character.
+src/varlango/URL.java:42:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'SEARCH' starts with uppercase character.
+src/varlango/URL.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Explore_More' could be declared final
+src/varlango/URL.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Explore_More' could be declared final
+src/varlango/URL.java:43:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Explore_More' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:43:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Explore_More' doesn't match '[a-z][a-zA-Z0-9]*'
+src/varlango/URL.java:43:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Explore_More' is not final.
+src/varlango/URL.java:43:	VariableNamingConventions:	VariableNamingConventions: Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Explore_More' is not final.
+src/varlango/URL.java:43:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Explore_More' starts with uppercase character.
+src/varlango/URL.java:43:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Explore_More' starts with uppercase character.
+src/varlango/URL.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:47:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:47:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/varlango/URL.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
